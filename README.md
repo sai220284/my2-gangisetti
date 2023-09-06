@@ -17,11 +17,12 @@ surfing In the Maldives.
 
 
 Some of the food to eat in the Maldives include:
-•	Fried Yams
-•	Masroshi (Tuna Stuffed Chapati)
-•	Fish curry
-•	Gulha
-•	Mas Huni (Shredded Smoked Tuna)
+        •	Fried Yams
+        •	Masroshi (Tuna Stuffed Chapati)
+        •	Fish curry
+        •	Gulha
+        •	Mas Huni (Shredded Smoked Tuna)
+
 
 
 
