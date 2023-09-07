@@ -46,6 +46,22 @@ I've listed a number of sports and hobbies that I wholeheartedly suggest attempt
 | Martial Arts  | Martial arts, such as karate or taekwondo, offer a holistic approach to fitness and self-defense. It helps build discipline, self-confidence, and physical strength. | 3-6 hours            |
 
 
+# Inspiring Quotes by Scientists
 
+ 
+
+ I've curated two thought-provoking quotes by renowned scientists, each emphasizing the importance of curiosity and the unending quest for knowledge.
+
+ 
+
+---
+
+ 
+
+> *"The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science."* - _**Albert Einstein**_
+
+ 
+
+> *"Science is not only a disciple of reason but, also, one of romance and passion."* - _**Stephen Hawking**_
 
 
