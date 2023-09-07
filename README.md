@@ -65,3 +65,29 @@ I've listed a number of sports and hobbies that I wholeheartedly suggest attempt
 > *"Science is not only a disciple of reason but, also, one of romance and passion."* - _**Stephen Hawking**_
 
 
+
+# PHP Script Execution Time Counter
+
+ 
+
+Below is a PHP code snippet that can be used to measure and display the execution time of a script in seconds. This snippet is sourced from [CSS-Tricks](https://css-tricks.com/snippets/php/count-script-excecution-time/).
+
+ 
+
+```php
+<?php
+$execution_time = microtime(); // Start counting
+
+// Your code
+
+$execution_time = microtime() - $execution_time;
+printf('It took %.5f sec', $execution_time);
+
+ ```
+ 
+
+In this section , I've enclosed the PHP code snippet in code fencing (```php) to format it as code. Additionally, I've added a quick-link to the source at CSS-Tricks for reference.
+
+I found a relevant question on Stack Overflow that might be helpful: [Custom-css-styles](https://stackoverflow.com/questions/75859763/how-can-i-add-custom-css-styles-to-vs-code)
+
+
